@@ -10,6 +10,10 @@
 
 - Build: preserve existing `CGO_CFLAGS` when adding GCC 15+ workaround. (#8 — thanks @ramarivera)
 
+### Added
+
+- Send: `wacli send file --filename` to override display name for uploads. (#7 — thanks @plattenschieber)
+
 ## 0.1.0 - 2026-01-01
 
 ### Added
